@@ -4,8 +4,6 @@ This project contains an implementation of **LSTM (Long Short-Term Memory)** neu
 
 ## Main files:
 
-- *data.h/cpp* - class for scaling input data
-- *model.h/cpp* - LSTM class of the model
 - *main.cpp * - creating objects and launching training
 
 ## The *DataScaler* class performs input data preprocessing:
